@@ -21,7 +21,7 @@ __HELP__ = """
 
 `/ping` - ᴄʜᴇᴄᴋ ɪғ ʙᴏᴛ ɪs ᴀʟɪᴠᴇ ᴏʀ ɴᴏᴛ.
 
-- ᴘᴏᴡᴇʀᴅ ʙʏ 😍 ʀᴏᴄᴋs ᴀɴᴅ @AsadSupport
+- ᴘᴏᴡᴇʀᴅ ʙʏ 😍 ʀᴏᴄᴋs ᴀɴᴅ 
 """
 
 
@@ -35,7 +35,7 @@ async def bot_sys_stats():
 ᴄᴘᴜ: {cpu}%
 ʀᴀᴍ: {mem}%
 ᴅɪsᴋ: {disk}%
-ᴊᴏɪɴ: @Alexa.Help"""
+ᴊᴏɪɴ: @........ """
     return stats
 
 
